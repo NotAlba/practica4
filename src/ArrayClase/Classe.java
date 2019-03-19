@@ -34,6 +34,7 @@ public class Classe {
 			clase.add(a);	
 		}
 		System.out.println(clase);
+		System.out.println("esto es una frase para el ejercico del github");
 	}
 
 }
